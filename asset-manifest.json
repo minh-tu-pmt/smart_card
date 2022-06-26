@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/smart_card/static/css/main.0f46ecf8.css",
-    "main.js": "/smart_card/static/js/main.f7e703c7.js",
+    "main.js": "/smart_card/static/js/main.75428498.js",
     "static/js/787.86d370db.chunk.js": "/smart_card/static/js/787.86d370db.chunk.js",
     "static/media/default_background_horizontal.png": "/smart_card/static/media/default_background_horizontal.45c50d8367c3fde3651e.png",
     "static/media/background-mobile.png": "/smart_card/static/media/background-mobile.11707e6394b251dfa729.png",
@@ -9,11 +9,11 @@
     "static/media/logo_zalo.png": "/smart_card/static/media/logo_zalo.a77aa89de19c8dcfee3e.png",
     "index.html": "/smart_card/index.html",
     "main.0f46ecf8.css.map": "/smart_card/static/css/main.0f46ecf8.css.map",
-    "main.f7e703c7.js.map": "/smart_card/static/js/main.f7e703c7.js.map",
+    "main.75428498.js.map": "/smart_card/static/js/main.75428498.js.map",
     "787.86d370db.chunk.js.map": "/smart_card/static/js/787.86d370db.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0f46ecf8.css",
-    "static/js/main.f7e703c7.js"
+    "static/js/main.75428498.js"
   ]
 }
